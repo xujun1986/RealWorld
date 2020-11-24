@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\layouts",
+    "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/layouts",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_55332be6"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/home",
+        "_name": "_c381fa50"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_50c1c00a"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/login",
+        "_name": "_29d9a090"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_50c1c00a"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/login",
+        "_name": "_29d9a090"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\profile",
-        "_name": "_457dddbb"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/profile",
+        "_name": "_19cae5e0"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\settings",
-        "_name": "_09042b5e"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/settings",
+        "_name": "_0177259c"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\editor",
-        "_name": "_0fb9031b"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/editor",
+        "_name": "_04ce9526"
       },
       {
         "path": "article/:slug",
         "name": "article",
-        "component": "C:\\\\Users\\\\xujun\\\\Desktop\\\\realworld-nuxtjs\\\\pages\\\\article",
-        "_name": "_2c482108"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/article",
+        "_name": "_4c365f46"
       }
     ],
-    "_name": "_5573be9b"
+    "_name": "_03106df0"
   }
 ]
